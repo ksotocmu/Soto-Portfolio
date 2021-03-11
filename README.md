@@ -61,7 +61,6 @@ I collected comments that were interesting, insightful, or spur of the moment. I
 While there was mostly positive response to the project. I did receive some feedback to incorporate into the final draft. The largest improvement seemed to be the story arc which most users felt was clear and stated. The visualizations were considered appropriate and they made a persuasive case but there were comments on the number of them and how much some added to the thesis. I've sorted feedback into 3 categories to review. Design, Data, and Narrative Arc.
 
 # 1. Design 
-![Telling Stories WIth Data Final Project Draft](https://user-images.githubusercontent.com/74934048/110740531-332b8380-8201-11eb-95f9-7775a3b1d898.png)
 Users picked up on an inconsistent palate and style of visualizations, they mentioned that some looked like items from multiple sources and that a coherent "brand" may be a more effective approach. One mentioned the use of color as being too heavy handed and wanted to see less color and greater stylistic consistency. Users were inconsistent about the charting approach with mostly positive feedback on the dollar chart. The red wave like structure in the more accurate reflection of homelessness confused some users.
 
 "Were these all made together?"
