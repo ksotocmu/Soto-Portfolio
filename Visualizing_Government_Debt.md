@@ -1,5 +1,10 @@
 ## Visualizing Government Debt
 
+### Part I
+
+The OCED website has a handy tool for visualizing the data requested. While this bar chart is helpful for assessing very general trends there are some aspects it's lacking such as a well defined y-axis or any sense of time. The colors indicating different countries is helpful, but there may a better way to seaparte individual countries and view their data. 
+
+<iframe src="https://data.oecd.org/chart/6Aji" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Aji" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 ### Part II
 
