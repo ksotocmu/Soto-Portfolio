@@ -1,3 +1,7 @@
+layout: page
+title: "Visualizing Government Debt"
+permalink: /Soto-Portfolio/Visualizing_Government_Debt/
+
 ## Visualizing Government Debt
 
 ### Part I
