@@ -12,8 +12,7 @@
 
 https://carnegiemellon.shorthandstories.com/anyone-can-be-homeless--yeah--even-you-/index.html
 
-##### Discussion
-https://ksotocmu.github.io/Soto-Portfolio/TSWD_Final
+#### [Discussion](TSWD_Final.md)
 
 layout: page
 title: "Visualizing Government Debt"
