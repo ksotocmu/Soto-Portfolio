@@ -97,7 +97,7 @@ I like that you changed the orange from a line to bars, so I'd keep that. I'd li
 The feedback for both versions is similar to what I expected, and some of the issues inherent in each of the approaches. I didn't expect the area chart approach for the hourly wage to be confusing, but after hearing the responses it made sense how the shape could throw someone off. If I were to take the approach of using two separate visualizations the interactivity piece would be key to linking them together. There was consistent feedback in both versions about what the reader is intended to learn from the visualizations so in a final version I'll add subtitles. The more general y-axis in the first version didn't seem to present as much of a dilemma as I initially expected, but it's very important that the key is clear and prominent.
 
 
-### Step Five: Test Your Solution
+### Step Five: Build Your Solution
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8377503"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
